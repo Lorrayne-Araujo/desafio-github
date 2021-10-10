@@ -1,0 +1,2 @@
+Link para download do Git: https://github.com/Lorrayne-Araujo/desafio-github.git
+O git Bash é um terminal extendido para otimizar o uso do Git.
